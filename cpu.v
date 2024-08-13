@@ -1,4 +1,4 @@
-module pd (
+module cpu (
   input wire clock,
   input wire reset
 );
